@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 this change made from local repo..this is second change in same line
 
+=======
+this change made from local repo
+this change made from remote repo
+>>>>>>> fe5e42ccceb2fc5966315e4c68a16526ba85b94d
