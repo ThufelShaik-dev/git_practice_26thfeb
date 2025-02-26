@@ -2,7 +2,13 @@ a=10
 b=01
 c = a+b
 
+
 g=30
 h=30
 i=g+h
+
+d = 20
+e = 20
+f = d+e
+this is stash which stores our changes temporarily...
 
